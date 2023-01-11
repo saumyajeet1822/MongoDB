@@ -1,0 +1,15 @@
+
+db.stuDetails.insertMany([{
+    First_Name: "Saumyajeet",
+    Last_Name: "Das",
+    Date_of_Birth:"2002-11-30",
+    e_mail: "o21bca16462@cuchd.in",
+    phone: "9401928103"},
+    {
+        First_Name: "Devesh",
+        Last_Name:"Jain",
+        Date_of_Birth: "2001-10-08",
+        phone: "89555622542"
+    
+    
+}])
