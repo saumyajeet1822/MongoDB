@@ -1,0 +1,8 @@
+db.createCollection("stuDetails")
+db.stuDetails.insertOne({
+    First_Name:"Ramesh",
+    Last_Name:"Sharma",
+    Date_of_Birth:"1999-10-26",
+    e_mail: "ramesh_Sharma@gmail.com",
+    phone:"9888665526"
+})
